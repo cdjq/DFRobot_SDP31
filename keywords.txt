@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For DFRobot_SDP31
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_SDP31	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readSerialNumber	KEYWORD2
+softReset	KEYWORD2
+stopContinuousMode	KEYWORD2
+startContinuousMode	KEYWORD2
+enterSleep	KEYWORD2
+readTempAndDP	KEYWORD2
+getTemperature	KEYWORD2
+getDifferentialPressure	KEYWORD2
+getMassFlow	KEYWORD2
+readUniqueSerialNumber	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+eRepeatability_High	LITERAL1
+
+eOneShot	LITERAL1
+ePeriodic	LITERAL1
+MASSFLOW	LITERAL1
+DIFFPRESSURE	LITERAL1
+AVGTILLREAD	LITERAL1
+AVGNONE	LITERAL1
+Temperature	LITERAL1
+DifferentialPressure	LITERAL1
+MassFlow	LITERAL1
